@@ -5,6 +5,7 @@
 
 <br>
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/1041f1d1-b809-4728-bf0d-7d61f390fe54" />
+
 <br>
 - **테이블 생성 기능**으로 사용자의 실시간으로 게시판을 직접 생성할 수 있습니다.  
 - **이미지 동영상 업로드**로 유저 간 정보공유를 보다 원활하게 할 수 있습니다.  
