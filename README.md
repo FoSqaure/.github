@@ -1,0 +1,2 @@
+# .github
+FoSqaure wiki repository
