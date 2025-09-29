@@ -17,6 +17,7 @@
 
 
 1. **테이블 생성 기능** 소개 및 시연 영상
+<br>
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/18a179b6-dec6-47ec-8fcd-5a0c52593063" />
 
 
@@ -26,6 +27,7 @@ https://github.com/user-attachments/assets/04cf70e1-4e4d-41b7-b784-6e091620a267
 <br>
 <br>
 2. **이미지 동영상 업로드** 소개 및 시연 영상
+<br>
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc7cf2db-71e1-402c-ae75-76e6611d059f" />
 
 
@@ -35,6 +37,7 @@ https://github.com/user-attachments/assets/6715fcd3-7267-4e30-9597-068ec684714f
 <br>
 <br>
 3. **이메일 인증** 소개 및 시연 영상
+<br>
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ec98a37a-1e92-4e9d-9bc3-ea21ccc01e6c" />
 
 
